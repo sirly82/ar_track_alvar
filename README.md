@@ -7,6 +7,7 @@ Open the Terminal or klik (Ctrl+Alt+T) for shortcut
 # Create Workspace (if you dont have it)
 ```
 $ mkdir -p ~/catkin_ws/src
+$ cd ~/catkin_ws/
 ```
 
 # Access Workspace (if you have it)
