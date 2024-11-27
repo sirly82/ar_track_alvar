@@ -15,7 +15,7 @@ $ cd ~/catkin_ws/
 $ cd ~/catkin_ws/
 ```
 
-# Instal Paket ``` ar_track_alvar ```
+# Installing ``` ar_track_alvar ``` Package
 ```
 $ git clone https://github.com/sirly82/ar_track_alvar.git
 ```
