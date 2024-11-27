@@ -7,12 +7,12 @@ Open the Terminal or klik (Ctrl+Alt+T) for shortcut
 # Create Workspace (if you dont have it)
 ```
 $ mkdir -p ~/catkin_ws/src
-$ cd ~/catkin_ws/
+$ cd ~/catkin_ws/src
 ```
 
 # Access Workspace (if you have it)
 ```
-$ cd ~/catkin_ws/
+$ cd ~/catkin_ws/src
 ```
 
 # Installing ``` ar_track_alvar ``` Package
